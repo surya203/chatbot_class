@@ -1,0 +1,6 @@
+#requirements.txt
+streamlit
+openai
+langchain
+langchain-community
+langchain-openai
